@@ -40,8 +40,7 @@ button {
 }
 
 #count-el, #save-el {
-    color: white;
-    text-shadow: 2px 2px black;
+    color: black;
 }
 
 .main-div {
